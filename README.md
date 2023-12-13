@@ -1,5 +1,5 @@
 # Autoshop
-Autoshop Telegram bot for selling electron products
+Autoshop Telegram bot for online selling products
 
 # Autoshop Telegram Bot
 
